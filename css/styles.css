@@ -47,7 +47,7 @@ body {color:var(--primary-text-color);
 /* header */
  
 .header-main {height: 80px;
-       border-width: 0, 0, 5px, 0;
+              border-width: 0, 0, 5px, 0;
               background: #FFFFFF;
               box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
               0px 1px 1px rgba(46, 47, 66, 0.16),
